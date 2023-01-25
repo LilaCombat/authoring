@@ -1,5 +1,5 @@
 # authoring
-Github Favoured Markdown
+## Github Favoured Markdown
  
 - [X] External Link  
 - [X] Internal Link  
@@ -9,5 +9,5 @@ Github Favoured Markdown
 
  (https://help.github.com/en)   
  :smile:  
- | hallo | ich |  
- | bin | Lila |
+ | hallo | ich |
+| bin: | :LILA |
