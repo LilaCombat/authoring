@@ -8,6 +8,14 @@
 - [X] Tables 
 
  (https://help.github.com/en)   
+ 
+ ## Emoji  
+ 
  :smile:  
- | hallo | ich |
-| bin: | :LILA |
+ 
+ ## Table
+ | hallo | ich |  
+| bin: | :LILA |  
+
+## Image
+[image] (logo.png)
