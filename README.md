@@ -14,8 +14,8 @@
  :smile:  
  
  ## Table
- | hallo | ich |  
-| bin: | :LILA |  
+ |  hallo  |  ich  |  
+|  bin:  |  :LILA  |  
 
 ## Image
 
