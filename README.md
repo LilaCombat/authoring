@@ -18,4 +18,4 @@
 | bin: | :LILA |  
 
 ## Image
-[image] (/images/logo.png)
+[git-image] (/images/logo.png)
