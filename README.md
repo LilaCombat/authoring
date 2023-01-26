@@ -7,7 +7,7 @@
 - [X] Emoji  
 - [X] Tables 
 
- [link help git hub] (https://help.github.com/en)   
+ [link help git hub](https://help.github.com/en)   
  
  ## Emoji  
  
