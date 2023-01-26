@@ -1,7 +1,7 @@
 # authoring
 ## Github Favoured Markdown
  
-- [X] (# External Link)  
+- [X] [External Link](#External-Link)  
 - [X] Internal Link  
 - [X] images  
 - [X] Emoji  
@@ -18,4 +18,4 @@
 | bin: | :LILA |  
 
 ## Image
-[image] (logo.png)
+[image] (/images/logo.png)
