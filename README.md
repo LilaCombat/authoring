@@ -18,4 +18,5 @@
 | bin: | :LILA |  
 
 ## Image
-[git-image] (/images/logo.png)
+
+![logo](https://user-images.githubusercontent.com/43035442/214815883-7894da2c-8c47-4ebd-aa39-b34f98d36a62.png)
