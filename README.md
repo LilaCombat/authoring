@@ -2,7 +2,7 @@
 ## Github Favoured Markdown
  
 - [X] [External Link](#External-Link)  
-- [X] Internal Link  
+- [X] [Internal Link](#Internal-Link)
 - [X] images  
 - [X] Emoji  
 - [X] Tables 
